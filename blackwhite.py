@@ -1,3 +1,5 @@
+#convert the color image into GRAY IMAGE
+
 import cv2
 
 img=cv2.imread("img/self.jpg")
